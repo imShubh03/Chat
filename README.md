@@ -48,8 +48,8 @@ Follow these instructions to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:Achintya-Chatterjee/periskope.git
-cd periskope
+git clone git@github.com:your-username/projectname.git
+cd projectname
 ```
 
 ### 2. Install Dependencies
